@@ -59,13 +59,6 @@ Former lead of a 10-engineer iOS team. Focused on modular architecture, test aut
 - Invoice Maker
 - [**Photo Editor**](https://apps.apple.com/us/app/photo-editor-pro-app/id1597873829)
 
-## Open Source and Learning
-
-| Repository | Focus |
-| :-- | :-- |
-| [Machine-Learning](https://github.com/abdullah1107/Machine-Learning) | Traditional machine learning fundamentals |
-| [ComputerVision-ImageProcessing](https://github.com/abdullah1107/ComputerVision-ImageProcessing) | Computer vision and image processing |
-
 ## GitHub Stats
 
 <div align="center">
