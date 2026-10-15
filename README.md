@@ -21,7 +21,7 @@ Former lead of a 10-engineer iOS team. Focused on modular architecture, test aut
 
 ## About
 
-- 🍎 **Currently:** Senior iOS Engineer API Integration working and Framework developement on XCUITest, CI/CD and release validation.
+- 🍎 **Currently:** Senior iOS Engineer experienced in API integration, XCUITest framework development, CI/CD, and release validation.
 - 🧪 **Test automation:** helped cut regression testing time by **90%** by expanding UI automation across internal iOS apps.
 - 🤖 **AI-forward:** prototyped LLM-powered visual regression testing that reached **85% precision** across tested flows.
 - 👥 **Leadership:** led a 10-person iOS team at Greenlight Financial Technology, covering estimation, architecture and sprint delivery.
