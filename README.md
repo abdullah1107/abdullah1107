@@ -4,7 +4,7 @@
 
 # Muhammad Abdullah Al Mamun
 
-### Senior iOS Engineer · Swift · SwiftUI · UIKit · AI
+### Senior Software Engineer · System Design · OOP · SDET · AI
 
 Senior iOS engineer with 10+ years building apps across Apple retail, fintech and e-commerce, plus published App Store products.
 Former lead of a 10-engineer iOS team. Focused on modular architecture, test automation, security and performance.
