@@ -6,7 +6,7 @@
 
 ### Senior Software Engineer · System Design · OOP · SDET · AI
 
-Senior iOS engineer with 10+ years building apps across Apple retail, fintech and e-commerce, plus published App Store products.
+Senior Software engineer with 10+ years building apps across Apple retail, fintech and e-commerce, plus published App Store products.
 Former lead of a 10-engineer iOS team. Focused on modular architecture, test automation, security and performance.
 
 📍 Austin, TX &nbsp;·&nbsp; 🇺🇸 U.S. Permanent Resident &nbsp;·&nbsp;
