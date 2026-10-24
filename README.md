@@ -39,10 +39,11 @@ Former lead of a 10-engineer iOS team. Focused on modular architecture, test aut
 
 | | |
 | :-- | :-- |
-| **Languages** | Swift, Objective-C, Python, JavaScript, Java, C/C++, SQL |
+| **Languages** | Swift, Python, Java, JavaScript, C/C++, Objective-C, SQL, Shell/Bash, HTML, CSS |
+| **Software Engineering** | System Design, Software Architecture, Object-Oriented Programming (OOP), Object-Oriented Design, Design Patterns, SOLID Principles, Data Structures & Algorithms, Clean Code, Code Review, Refactoring, Performance Optimization, Scalability |
 | **iOS** | SwiftUI, UIKit, Combine, Swift Concurrency, Core Data, Core Animation, Core ML, ARKit, HealthKit, HomeKit, MapKit, Metal, SpriteKit, SceneKit, AVFoundation, Realm |
-| **Architecture** | MVVM, VIPER, Modular / feature-based architecture, SOLID, Dependency Injection, Repository, Coordinator |
-| **Testing & CI/CD** | XCTest, XCUITest, WireMock, TDD, Fastlane, Bitrise, Instruments, Swift Package Manager, CocoaPods |
+| **Architecture** | Modular Architecture, MVVM, MVC, MVP, VIPER, Dependency Injection, Repository Pattern, Coordinator Pattern, Protocol-Oriented Design, Reusable Component Libraries, Design Systems |
+| **Testing & CI/CD** | Test Automation Framework Design, End-to-End (E2E) Testing, Unit & Integration Testing, Regression Testing, API & Contract Testing, Service Mocking & Virtualization (WireMock), Visual Regression Testing, Data-Driven Testing, Page Object Model, Test-Driven Development (TDD), Release Validation, Test Reporting,CI/CD Pipelines, Build & Release Automation, Bitrise, Fastlane, Git, GitHub, Branching Strategies, Pull-Request Workflows, Docker, Kubernetes, Linux, AWS, Shell and Python Scripting|
 | **Security** | Keychain, SSL pinning, AES encryption, OAuth, biometrics, HTTPS |
 | **Backend & DevOps** | REST APIs, Django REST Framework, PostgreSQL, Docker, Kubernetes, Linux, AWS |
 | **AI & productivity** | Claude Code, Cursor, Codex, agentic AI, MCP, ML fundamentals, NumPy, SciPy, Polars, scikit-learn, TensorFlow |
