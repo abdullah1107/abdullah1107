@@ -8,7 +8,7 @@
 
 Senior Software Engineer with 10 years of experience designing, building, and shipping production software across retail, fintech, e-commerce, gaming, and consumer applications. Led a 10-engineer team and delivered scalable software architecture, reusable frameworks, APIs, developer tooling, CI/CD systems, service virtualization, and production applications used by millions of users. Strong background in system design, mobile and backend engineering, distributed development workflows, performance optimization, and technical leadership. Hands-on experience with Swift, Python, GraphQL, Django REST Framework, PostgreSQL, Docker, Kubernetes, AWS, and LLM-powered engineering automation.
 
-📍 Austin, TX &nbsp;·&nbsp; 🇺🇸 U.S. Permanent Resident &nbsp;·&nbsp;
+📍 Austin, TX &nbsp;·&nbsp; 🇺🇸 U.S. Permanent Resident &nbsp;&nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdullah1107-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah1107)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.mamun1107@gmail.com)
