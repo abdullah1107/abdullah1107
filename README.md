@@ -6,8 +6,7 @@
 
 ### Senior Software Engineer · System Design · OOP · SDET · AI
 
-Senior Software engineer with 10+ years building apps across Apple retail, fintech and e-commerce, plus published App Store products.
-Former lead of a 10-engineer iOS team. Focused on modular architecture, test automation, security and performance.
+Senior Software Engineer with 10 years of experience designing, building, and shipping production software across retail, fintech, e-commerce, gaming, and consumer applications. Led a 10-engineer team and delivered scalable software architecture, reusable frameworks, APIs, developer tooling, CI/CD systems, service virtualization, and production applications used by millions of users. Strong background in system design, mobile and backend engineering, distributed development workflows, performance optimization, and technical leadership. Hands-on experience with Swift, Python, GraphQL, Django REST Framework, PostgreSQL, Docker, Kubernetes, AWS, and LLM-powered engineering automation.
 
 📍 Austin, TX &nbsp;·&nbsp; 🇺🇸 U.S. Permanent Resident &nbsp;·&nbsp;
 
@@ -47,6 +46,7 @@ Former lead of a 10-engineer iOS team. Focused on modular architecture, test aut
 | **Security** | Keychain, SSL pinning, AES encryption, OAuth, biometrics, HTTPS |
 | **Backend & DevOps** | REST APIs, Django REST Framework, PostgreSQL, Docker, Kubernetes, Linux, AWS |
 | **AI & productivity** | Claude Code, Cursor, Codex, agentic AI, MCP, ML fundamentals, NumPy, SciPy, Polars, scikit-learn, TensorFlow |
+| **Leadership** | Technical Leadership, Team Leadership, Mentoring, Stakeholder Management, Cross-Functional Collaboration  |
 
 
 ## Published Apps
