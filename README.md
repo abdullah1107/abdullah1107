@@ -79,6 +79,6 @@ Senior Software Engineer with 10 years of experience designing, building, and sh
 
 <div align="center">
 
-Open to Senior / Staff iOS roles. Reach me at [muhammad.mamun1107@gmail.com](mailto:muhammad.mamun1107@gmail.com).
+Open to Senior / Staff roles. Reach me at [muhammad.mamun1107@gmail.com](mailto:muhammad.mamun1107@gmail.com).
 
 </div>
